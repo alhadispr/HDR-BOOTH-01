@@ -1,0 +1,1 @@
+HDR BOOTH adalah implementasi independen dan tidak menyertakan source code, binary, aset proprietary atau branding Fotobu. Canon dan EOS adalah merek dagang Canon Inc.; proyek ini tidak berafiliasi dengan Canon. SDK Canon harus diperoleh langsung oleh developer sesuai lisensi regional.
